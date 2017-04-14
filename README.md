@@ -18,6 +18,7 @@ Don't hesitate to contact me on Mastodon if you need anything! https://mastodon.
 
 # To-Do
 
+- Non-verbose mode
 - Setup admin account 
 - Mailgun settings integration
 - cron jobs
