@@ -1,4 +1,8 @@
 # Welcome ;) !
+
+Debian might create a package, waiting for news !
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=859741
+
 Install your Mastodon instance without touching anything !
 This script has been created by PastaGringo with indirect help of Angristan
 This script works on Debian 8 (Jessie) and is still in development
