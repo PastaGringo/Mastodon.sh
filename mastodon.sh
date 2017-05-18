@@ -91,7 +91,7 @@ echo "Mastodon Ruby version is : " $rubyversion
 echo
 echo "deb http://httpredir.debian.org/debian jessie-backports main" >> /etc/apt/sources.list
 apt update && apt full-upgrade -y
-apt-get install imagemagick ffmpeg libpq-dev libxml2-dev libxslt1-dev file curl git g++ libprotobuf-dev protobuf-compiler -y
+apt-get install imagemagick ffmpeg libpq-dev libxml2-dev pkg-config libxslt1-dev file curl git g++ libprotobuf-dev protobuf-compiler -y
 echo
 echo NODEJS 
 echo
