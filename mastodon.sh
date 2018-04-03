@@ -48,7 +48,7 @@ case "$response" in
                 ;;
 esac                                                         
 echo
-echo "To finish, could you give your email accout ? (for letsencrypt certificate) : "
+echo "To finish, could you give your email account ? (for letsencrypt certificate) : "
 read email
 echo
 echo "I got everything I need !"
